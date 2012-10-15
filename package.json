@@ -1,0 +1,28 @@
+{
+	"name": "slow-proxy",
+	"version": "0.0.1",
+	"homepage": "https://github.com/stevoland/grunticon-stylus",
+	"private": true,
+	"author": {
+		"name": "stevo (Stephen Collings)",
+		"email": "stevoland@gmail.com",
+		"url": "http://stevoland.com"
+	}
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/stevoland/slowproxy.git"
+	},
+	"bugs": {
+		"url": "https://github.com/stevoland/slowproxy/issues"
+	},
+	"licenses": [
+	{
+		"type": "MIT",
+		"url": "https://github.com/stevoland/slowproxy/blob/master/LICENSE-MIT"
+	}
+	],
+	"main": "app",
+	"engines": {
+		"node": "*"
+	},
+}
