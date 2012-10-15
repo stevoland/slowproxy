@@ -7,7 +7,7 @@
 		"name": "stevo (Stephen Collings)",
 		"email": "stevoland@gmail.com",
 		"url": "http://stevoland.com"
-	}
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/stevoland/slowproxy.git"
